@@ -11,7 +11,7 @@ Whether you're searching for education, health, finance, or women empowerment sc
 ### 🛠️ Tech Stack
 - **Frontend**: Flutter
 - **Chatbot Engine**: Langflow
-- **Model**: Ollama LLM (Local/Open Source)
+- **Model**: Ollama LLM
 - **Data**: PDF-based scheme documents
 - **Architecture**: Retrieval-Augmented Generation (RAG)
 
