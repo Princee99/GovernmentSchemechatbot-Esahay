@@ -24,7 +24,7 @@ Whether you're searching for education, health, finance, or women empowerment sc
 
 ## 🎬 Demo Video
 
-👉 [Watch the demo here]([https://your-video-link.com](https://drive.google.com/file/d/1exv26dE23qAZDrqyXGUVhKxUbWR4mQ2f/view?usp=drive_link))
+👉 [Watch the demo here](https://drive.google.com/file/d/1exv26dE23qAZDrqyXGUVhKxUbWR4mQ2f/view?usp=drive_link)
 
 
 ## 🚀 Getting Started
