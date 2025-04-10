@@ -22,6 +22,10 @@ Whether you're searching for education, health, finance, or women empowerment sc
 - Works with local data using Langflow + Ollama
 - Designed for easy expansion and integration
 
+### Langflow RAG Architecture
+
+![Langflow Architecture](langflow1.1.jpg)
+![](langflow1.2.jpg)
 ## 🎬 Demo Video
 
 👉 [Watch the demo here](https://drive.google.com/file/d/1exv26dE23qAZDrqyXGUVhKxUbWR4mQ2f/view?usp=drive_link)
