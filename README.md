@@ -24,8 +24,8 @@ Whether you're searching for education, health, finance, or women empowerment sc
 
 ### Langflow RAG Architecture
 
-![Langflow Architecture](langflow1.1.jpg)
-![](langflow1.2.jpg)
+![Langflow Architecture](langflow1.1.png)
+![](langflow1.2.png)
 ## 🎬 Demo Video
 
 👉 [Watch the demo here](https://drive.google.com/file/d/1exv26dE23qAZDrqyXGUVhKxUbWR4mQ2f/view?usp=drive_link)
